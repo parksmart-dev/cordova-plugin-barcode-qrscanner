@@ -1,7 +1,10 @@
 # cordova-plugin-qrscanner
 
-> A fast, energy efficient, highly-configurable QR code scanner for Cordova / Ionic apps – available for the iOS, Android, Windows, and browser platforms.
+> A fast, energy efficient, highly-configurable QR code + barcode scanner for Cordova / Ionic apps – available for the iOS, Android, Windows, and browser platforms.
 
+> Support also CODE_39, CODE_93, CODE_128 standards
+
+> Supports Android API level 32
 ---
 
 Works as of **August 2022**.
