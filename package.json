@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-qrscanner-nbs",
+  "name": "cordova-plugin-barcode-qrscanner",
   "version": "3.0.5",
   "description": "Fast, energy-efficient, highly-configurable QR code scanner.",
   "cordova": {
-    "id": "cordova-plugin-qrscanner-nbs",
+    "id": "cordova-plugin-barcode-qrscanner",
     "platforms": [
       "ios"
     ]
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gianluigitrontini/cordova-plugin-qrscanner-nbs"
+    "url": "https://github.com/jammin197/cordova-plugin-barcode-qrscanner"
   },
   "keywords": [
     "cordova",
@@ -49,9 +49,9 @@
   "author": "Gianluigi Trontini",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gianluigitrontini/cordova-plugin-qrscanner-nbs"
+    "url": "https://github.com/jammin197/cordova-plugin-barcode-qrscanner"
   },
-  "homepage": "https://github.com/gianluigitrontini/cordova-plugin-qrscanner-nbs",
+  "homepage": "https://github.com/jammin197/cordova-plugin-barcode-qrscanner",
   "main": "dist/cordova-plugin-qrscanner-lib.min.js",
   "dependencies": {
     "qrcode-reader": "^1.0.4",
