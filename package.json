@@ -1,7 +1,7 @@
 {
   "name": "cordova-plugin-barcode-qrscanner",
   "version": "3.0.5",
-  "description": "Fast, energy-efficient, highly-configurable QR code scanner.",
+  "description": "Fast, energy-efficient, highly-configurable barcode and QR code scanner.",
   "cordova": {
     "id": "cordova-plugin-barcode-qrscanner",
     "platforms": [
@@ -46,7 +46,7 @@
     "electron",
     "NW.js"
   ],
-  "author": "Gianluigi Trontini",
+  "author": "Matej Musak",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jammin197/cordova-plugin-barcode-qrscanner"
